@@ -1,0 +1,2 @@
+python -m motuclient --motu http://my.cmems-du.eu/motu-web/Motu --service-id SEALEVEL_GLO_PHY_L4_MY_008_047-TDS --product-id cmems_obs-sl_glo_phy-ssh_my_allsat-l4-duacs-0.25deg_P1D --longitude-min 99 --longitude-max 170 --latitude-min 5 --latitude-max 64 --date-min "1994-01-01 00:00:00" --date-max "1994-12-31 12:00:00" --variable ugos --variable vgos --out-dir ./ --out-name auv_1994.nc --user ijang --pwd 'Wkddlstjd40!'
+
